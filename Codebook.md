@@ -1,9 +1,6 @@
----
-title: "Codebook"
-author: "Fabio Paderi"
+# Codebook 
+
 date: "11/10/2017"
-output: html_document
----
 
 The features of this database summarize the accelerometer data collected with gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityA)
 
